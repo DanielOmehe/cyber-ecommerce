@@ -28,7 +28,7 @@ const BannerGrid = () => {
                 <Image src={'/assets/images/macbook-pro.png'} className="border-2" alt="ps-5" width={400} height={400} />
                 <div>
                     <h2 className="text-8xl font-thin">Macbook <span className="font-semibold">Air</span></h2>
-                    <p>The new 15‑inch MacBook Air makes room for more of what you love with a spacious Liquid Retina display.</p>
+                    <p className="text-[#909090]">The new 15‑inch MacBook Air makes room for more of what you love with a spacious Liquid Retina display.</p>
                 </div>
             </article>
         </section>
