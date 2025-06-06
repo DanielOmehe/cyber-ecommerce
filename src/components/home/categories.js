@@ -24,7 +24,7 @@ export default BrowseCategories
 
 const CategoryCard = ({category}) => {
     return (
-        <div className="bg-[#ededed] w-[160px] h-[128px] rounded-xl text-center flex flex-col items-center justify-center">
+        <div className="bg-[#ededed] w-[170px] h-[138px] rounded-xl text-center flex flex-col items-center justify-center">
             <Image src={category.icon} width={50} height={50} alt={category.name} />
             <p>{category.name}</p>
         </div>
