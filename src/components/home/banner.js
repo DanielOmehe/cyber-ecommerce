@@ -14,7 +14,7 @@ const BannerGrid = () => {
                 <Image src={'/assets/images/airpod-max-hero.png'} alt="airpod max" width={104} height={272} />
                 <div>
                     <h2 className="text-4xl pr-25 mb-2 font-light">Apple Airpods <span className="font-semibold">Max</span></h2>
-                    <p className="text-[#909090] text-sm pr-25">Computational audio. Listen, it's powerful</p>
+                    <p className="text-[#909090] text-sm pr-25">Computational audio. Listen, it &apos;s powerful</p>
                 </div>
             </article>
             <article className="flex items-center justify-start gap-10 bg-[#353535]">
