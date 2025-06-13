@@ -1,0 +1,419 @@
+[
+  {
+    "id": "3c24d083-b34f-4359-8081-f6a39cf921cf",
+    "category": "phones",
+    "name": "Apple Iphone 14 Pro Max 128GB Deep Purple",
+    "brand": "Apple",
+    "price": 1200,
+    "path": "/assets/images/iphone-14.png",
+    "discountPrice": 900,
+    "colors": [
+      "Blue",
+      "Black",
+      "Silver",
+      "Gold"
+    ],
+    "storageOptions": [
+      "128GB",
+      "64GB",
+      "256GB"
+    ],
+    "shortDescription": "This is a premium phone designed for performance and style.",
+    "longDescription": "The latest in our line of phones, offering advanced features, sleek design, and top-tier performance.",
+    "specs": {
+      "battery": "5536mAh",
+      "cpu": {
+        "type": "Snapdragon 8 Gen 1",
+        "cores": 4,
+        "clockSpeed": "3.28GHz"
+      },
+      "screen": {
+        "diagonal": "6.7\"",
+        "resolution": "2560x1440",
+        "refreshRate": "60Hz",
+        "pixelDensity": "457 ppi",
+        "type": "OLED",
+        "additional": [
+          "HDR10",
+          "Gorilla Glass",
+          "True Tone"
+        ]
+      },
+      "camera": {
+        "front": "11 MP",
+        "main": "77 MP"
+      },
+      "os": "macOS",
+      "dimensions": "163 x 72 x 7.7 mm",
+      "weight": "145g",
+      "sim": "Single SIM",
+      "network": "4G"
+    },
+    "tag": "new_arrival"
+  },
+  {
+    "id": "3c24d083-b34f-4359-8081-f6a39cf921cf",
+    "category": "phones",
+    "name": "Apple Iphone 14 Pro Max 128GB Deep Purple",
+    "brand": "Apple",
+    "price": 1200,
+    "path": "/assets/images/iphone-14.png",
+    "discountPrice": 900,
+    "colors": [
+      "Blue",
+      "Black",
+      "Silver",
+      "Gold"
+    ],
+    "storageOptions": [
+      "128GB",
+      "64GB",
+      "256GB"
+    ],
+    "shortDescription": "This is a premium phone designed for performance and style.",
+    "longDescription": "The latest in our line of phones, offering advanced features, sleek design, and top-tier performance.",
+    "specs": {
+      "battery": "5536mAh",
+      "cpu": {
+        "type": "Snapdragon 8 Gen 1",
+        "cores": 4,
+        "clockSpeed": "3.28GHz"
+      },
+      "screen": {
+        "diagonal": "6.7\"",
+        "resolution": "2560x1440",
+        "refreshRate": "60Hz",
+        "pixelDensity": "457 ppi",
+        "type": "OLED",
+        "additional": [
+          "HDR10",
+          "Gorilla Glass",
+          "True Tone"
+        ]
+      },
+      "camera": {
+        "front": "11 MP",
+        "main": "77 MP"
+      },
+      "os": "macOS",
+      "dimensions": "163 x 72 x 7.7 mm",
+      "weight": "145g",
+      "sim": "Single SIM",
+      "network": "4G"
+    },
+    "tag": "new_arrival"
+  },
+  {
+    "id": "3c24d083-b34f-4359-8081-f6a39cf921cf",
+    "category": "phones",
+    "name": "Apple Iphone 14 Pro Max 128GB Deep Purple",
+    "brand": "Apple",
+    "price": 1200,
+    "path": "/assets/images/iphone-14.png",
+    "discountPrice": 900,
+    "colors": [
+      "Blue",
+      "Black",
+      "Silver",
+      "Gold"
+    ],
+    "storageOptions": [
+      "128GB",
+      "64GB",
+      "256GB"
+    ],
+    "shortDescription": "This is a premium phone designed for performance and style.",
+    "longDescription": "The latest in our line of phones, offering advanced features, sleek design, and top-tier performance.",
+    "specs": {
+      "battery": "5536mAh",
+      "cpu": {
+        "type": "Snapdragon 8 Gen 1",
+        "cores": 4,
+        "clockSpeed": "3.28GHz"
+      },
+      "screen": {
+        "diagonal": "6.7\"",
+        "resolution": "2560x1440",
+        "refreshRate": "60Hz",
+        "pixelDensity": "457 ppi",
+        "type": "OLED",
+        "additional": [
+          "HDR10",
+          "Gorilla Glass",
+          "True Tone"
+        ]
+      },
+      "camera": {
+        "front": "11 MP",
+        "main": "77 MP"
+      },
+      "os": "macOS",
+      "dimensions": "163 x 72 x 7.7 mm",
+      "weight": "145g",
+      "sim": "Single SIM",
+      "network": "4G"
+    },
+    "tag": "new_arrival"
+  },
+  {
+    "id": "3c24d083-b34f-4359-8081-f6a39cf921cf",
+    "category": "phones",
+    "name": "Apple Iphone 14 Pro Max 128GB Deep Purple",
+    "brand": "Apple",
+    "price": 1200,
+    "path": "/assets/images/iphone-14.png",
+    "discountPrice": 900,
+    "colors": [
+      "Blue",
+      "Black",
+      "Silver",
+      "Gold"
+    ],
+    "storageOptions": [
+      "128GB",
+      "64GB",
+      "256GB"
+    ],
+    "shortDescription": "This is a premium phone designed for performance and style.",
+    "longDescription": "The latest in our line of phones, offering advanced features, sleek design, and top-tier performance.",
+    "specs": {
+      "battery": "5536mAh",
+      "cpu": {
+        "type": "Snapdragon 8 Gen 1",
+        "cores": 4,
+        "clockSpeed": "3.28GHz"
+      },
+      "screen": {
+        "diagonal": "6.7\"",
+        "resolution": "2560x1440",
+        "refreshRate": "60Hz",
+        "pixelDensity": "457 ppi",
+        "type": "OLED",
+        "additional": [
+          "HDR10",
+          "Gorilla Glass",
+          "True Tone"
+        ]
+      },
+      "camera": {
+        "front": "11 MP",
+        "main": "77 MP"
+      },
+      "os": "macOS",
+      "dimensions": "163 x 72 x 7.7 mm",
+      "weight": "145g",
+      "sim": "Single SIM",
+      "network": "4G"
+    },
+    "tag": "new_arrival"
+  },
+  {
+    "id": "3c24d083-b34f-4359-8081-f6a39cf921cf",
+    "category": "phones",
+    "name": "Apple Iphone 14 Pro Max 128GB Deep Purple",
+    "brand": "Apple",
+    "price": 1200,
+    "path": "/assets/images/iphone-14.png",
+    "discountPrice": 900,
+    "colors": [
+      "Blue",
+      "Black",
+      "Silver",
+      "Gold"
+    ],
+    "storageOptions": [
+      "128GB",
+      "64GB",
+      "256GB"
+    ],
+    "shortDescription": "This is a premium phone designed for performance and style.",
+    "longDescription": "The latest in our line of phones, offering advanced features, sleek design, and top-tier performance.",
+    "specs": {
+      "battery": "5536mAh",
+      "cpu": {
+        "type": "Snapdragon 8 Gen 1",
+        "cores": 4,
+        "clockSpeed": "3.28GHz"
+      },
+      "screen": {
+        "diagonal": "6.7\"",
+        "resolution": "2560x1440",
+        "refreshRate": "60Hz",
+        "pixelDensity": "457 ppi",
+        "type": "OLED",
+        "additional": [
+          "HDR10",
+          "Gorilla Glass",
+          "True Tone"
+        ]
+      },
+      "camera": {
+        "front": "11 MP",
+        "main": "77 MP"
+      },
+      "os": "macOS",
+      "dimensions": "163 x 72 x 7.7 mm",
+      "weight": "145g",
+      "sim": "Single SIM",
+      "network": "4G"
+    },
+    "tag": "new_arrival"
+  },
+  {
+    "id": "3c24d083-b34f-4359-8081-f6a39cf921cf",
+    "category": "phones",
+    "name": "Apple Iphone 14 Pro Max 128GB Deep Purple",
+    "brand": "Apple",
+    "price": 1200,
+    "path": "/assets/images/iphone-14.png",
+    "discountPrice": 900,
+    "colors": [
+      "Blue",
+      "Black",
+      "Silver",
+      "Gold"
+    ],
+    "storageOptions": [
+      "128GB",
+      "64GB",
+      "256GB"
+    ],
+    "shortDescription": "This is a premium phone designed for performance and style.",
+    "longDescription": "The latest in our line of phones, offering advanced features, sleek design, and top-tier performance.",
+    "specs": {
+      "battery": "5536mAh",
+      "cpu": {
+        "type": "Snapdragon 8 Gen 1",
+        "cores": 4,
+        "clockSpeed": "3.28GHz"
+      },
+      "screen": {
+        "diagonal": "6.7\"",
+        "resolution": "2560x1440",
+        "refreshRate": "60Hz",
+        "pixelDensity": "457 ppi",
+        "type": "OLED",
+        "additional": [
+          "HDR10",
+          "Gorilla Glass",
+          "True Tone"
+        ]
+      },
+      "camera": {
+        "front": "11 MP",
+        "main": "77 MP"
+      },
+      "os": "macOS",
+      "dimensions": "163 x 72 x 7.7 mm",
+      "weight": "145g",
+      "sim": "Single SIM",
+      "network": "4G"
+    },
+    "tag": "new_arrival"
+  },
+  {
+    "id": "3c24d083-b34f-4359-8081-f6a39cf921cf",
+    "category": "phones",
+    "name": "Apple Iphone 14 Pro Max 128GB Deep Purple",
+    "brand": "Apple",
+    "price": 1200,
+    "path": "/assets/images/iphone-14.png",
+    "discountPrice": 900,
+    "colors": [
+      "Blue",
+      "Black",
+      "Silver",
+      "Gold"
+    ],
+    "storageOptions": [
+      "128GB",
+      "64GB",
+      "256GB"
+    ],
+    "shortDescription": "This is a premium phone designed for performance and style.",
+    "longDescription": "The latest in our line of phones, offering advanced features, sleek design, and top-tier performance.",
+    "specs": {
+      "battery": "5536mAh",
+      "cpu": {
+        "type": "Snapdragon 8 Gen 1",
+        "cores": 4,
+        "clockSpeed": "3.28GHz"
+      },
+      "screen": {
+        "diagonal": "6.7\"",
+        "resolution": "2560x1440",
+        "refreshRate": "60Hz",
+        "pixelDensity": "457 ppi",
+        "type": "OLED",
+        "additional": [
+          "HDR10",
+          "Gorilla Glass",
+          "True Tone"
+        ]
+      },
+      "camera": {
+        "front": "11 MP",
+        "main": "77 MP"
+      },
+      "os": "macOS",
+      "dimensions": "163 x 72 x 7.7 mm",
+      "weight": "145g",
+      "sim": "Single SIM",
+      "network": "4G"
+    },
+    "tag": "new_arrival"
+  },
+  {
+    "id": "3c24d083-b34f-4359-8081-f6a39cf921cf",
+    "category": "phones",
+    "name": "Apple Iphone 14 Pro Max 128GB Deep Purple",
+    "brand": "Apple",
+    "price": 1200,
+    "path": "/assets/images/iphone-14.png",
+    "discountPrice": 900,
+    "colors": [
+      "Blue",
+      "Black",
+      "Silver",
+      "Gold"
+    ],
+    "storageOptions": [
+      "128GB",
+      "64GB",
+      "256GB"
+    ],
+    "shortDescription": "This is a premium phone designed for performance and style.",
+    "longDescription": "The latest in our line of phones, offering advanced features, sleek design, and top-tier performance.",
+    "specs": {
+      "battery": "5536mAh",
+      "cpu": {
+        "type": "Snapdragon 8 Gen 1",
+        "cores": 4,
+        "clockSpeed": "3.28GHz"
+      },
+      "screen": {
+        "diagonal": "6.7\"",
+        "resolution": "2560x1440",
+        "refreshRate": "60Hz",
+        "pixelDensity": "457 ppi",
+        "type": "OLED",
+        "additional": [
+          "HDR10",
+          "Gorilla Glass",
+          "True Tone"
+        ]
+      },
+      "camera": {
+        "front": "11 MP",
+        "main": "77 MP"
+      },
+      "os": "macOS",
+      "dimensions": "163 x 72 x 7.7 mm",
+      "weight": "145g",
+      "sim": "Single SIM",
+      "network": "4G"
+    },
+    "tag": "new_arrival"
+  }
+]
+

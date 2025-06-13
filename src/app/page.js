@@ -3,6 +3,7 @@ import HeroSection from "@/components/home/hero";
 import { Inter } from "next/font/google"
 import BannerGrid from "@/components/home/banner";
 import BrowseCategories from "@/components/home/categories";
+import ProductSection from "@/components/home/products";
 
 const inter = Inter({
   variable: "--font-inter-sans",
@@ -17,6 +18,7 @@ export default function Home() {
         <HeroSection />
         <BannerGrid />
         <BrowseCategories />
+        <ProductSection />
       </Layout>
     </div>
   );
